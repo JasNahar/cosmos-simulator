@@ -1,0 +1,5 @@
+numpy>=1.24
+pygame>=2.5
+moderngl>=5.8
+matplotlib>=3.7   # validation plots only
+pillow>=10.0      # headless PNG output only
